@@ -1,5 +1,5 @@
 {
-  "name": "@reasonml-community/graphql-ppx",
+  "name": "graphql-ppx-fragments",
   "version": "1.0.21",
   "description": "graphql-ppx rewriter for ReScript/ReasonML",
   "repository": "https://github.com/a-c-sreedhar-reddy/graphql-ppx",
