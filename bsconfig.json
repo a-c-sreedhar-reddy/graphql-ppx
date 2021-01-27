@@ -1,5 +1,5 @@
 {
-  "name": "@reasonml-community/graphql-ppx",
+  "name": "graphql-ppx-fragments",
   "refmt": 3,
   "package-specs": {
     "module": "es6",
